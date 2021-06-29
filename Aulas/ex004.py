@@ -1,0 +1,7 @@
+algumtexto = input('Digite algo: ')
+print('{} é alfabético: {}.'.format(algumtexto, algumtexto.isalpha()))
+print('{} é numérico: {}.'.format(algumtexto, algumtexto.isnumeric()))
+print('{} é caixa alta: {}.'.format(algumtexto, algumtexto.isupper()))
+print('{} é caixa baixa: {}'.format(algumtexto, algumtexto.islower()))
+print('{} está capitalizada: {}'.format(algumtexto, algumtexto.istitle()))
+print('{} tem espaço: {}'.format(algumtexto, algumtexto.isspace()))

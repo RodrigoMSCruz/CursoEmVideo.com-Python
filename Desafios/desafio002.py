@@ -1,0 +1,7 @@
+nome = str(input('Digite o seu nome: '))
+print('É um prazer te conhecer, {}.'.format(nome))
+print('Digite a sua data de nascimento.')
+dia = int(input('Digite o seu dia de nascimeto: '))
+mes = str(input('Digite o seu mês de nascimento: '))
+ano = int(input('Digite o seu ano de nascimento: '))
+print('Você nasceu no dia {} de {} de {}. Correto?'.format(dia, mes, ano))
