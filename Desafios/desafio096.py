@@ -4,6 +4,7 @@
 def area(l, h):
     a = l * h
     print(f'A área de um terreno {l:2.2f} x {h:2.2f} é de {a:2.2f}m2.')
+# end-defArea
 
 
 print('Controle de Terrenos')

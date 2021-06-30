@@ -3,9 +3,10 @@
 
 def escreva(txt):
     comprimento = len(txt) + 4
-    print('˜'* (comprimento))
+    print('˜' * comprimento)
     print(f'  {txt}')
-    print('˜' * (comprimento))
+    print('˜' * comprimento)
+# end-defEscreva
 
 
 escreva('Olá, mundo!')

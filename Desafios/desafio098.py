@@ -3,23 +3,30 @@
 # de 1 até 10, de 1 em 1; de 10 até 0, de 2 em 2; uma contagem personalizada.
 
 from time import sleep
+
+
 def contagem(i, f, p):
     if i > f:
         ff = f - 1
-        p = p*(-1)
+        if p > 0:
+            p = p*(-1)
+        # end-if
     else:
         ff = f + 1
-    #end-if-else
+        if p < 0:
+            p = p*(-1)
+        # end-if
+    # end-if-else
     if p == 0:
         p = 1
-    #end-if
+    # end-if
     print(f'Contagem de {i} até {f} de {p} em {p}:')
     for c in range(i, ff, p):
         print(f'{c} ', end='')
         sleep(0.5)
-    #end-for
+    # end-for
     print('FIM!')
-#end-def
+# end-def
 
 
 contagem(1, 10, 1)
