@@ -3,20 +3,17 @@
 # tenha sido informado corretamente.
 
 def ficha(nome='<desconhecido>', gols=0):
-    if nome == '':
-        nome = '<desconhecido>'
-    if gols == '':
-        gols = '0'
     return (f'O jogador {nome} fez {gols} gol(s) no campeonato.')
+# end-def-ficha
 
 
-nome = str(input('Nome do jogador: '))
+nome = str(input('Nome do jogador: ')).strip()
 gols = str(input('Número de gols: '))
 if gols.isnumeric():
     gols = int(gols)
 else:
     gols = 0
-if nome.strip()=='':
+if nome =='':
     print(ficha(gols=gols))
 else:
     print(ficha(nome, gols))

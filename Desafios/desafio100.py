@@ -5,24 +5,31 @@
 from random import randint
 numerossorteados = []
 
+
 def sorteia(numerossorteados):
     print(f'Sorteando 5 valores na lista: ', end='')
     for i in range(0, 5, 1):
         numerossorteados.append(randint(1, 10))
         print(f'{numerossorteados[i]} ', end='')
-    #end-if
+    # end-if
     print('PRONTO!')
-#end-def
+# end-def
+
 
 def somapar(numerossorteados):
     soma = 0
     for i in numerossorteados:
         if i % 2 == 0:
             soma = soma + i
-        #end-if
-    #end-for
+        # end-if
+    # end-for
     print(f'O resultado da soma dos pares é: {soma}')
-#end-def
+# end-def
+
+
+# Programa Principal
+
+numerossorteados = []
 
 sorteia(numerossorteados)
 somapar(numerossorteados)

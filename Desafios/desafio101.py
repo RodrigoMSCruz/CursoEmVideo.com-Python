@@ -6,14 +6,14 @@ def voto(ano):
 
     idade = date.today().year - ano
     if idade < 16:
-        return f'Com {idade} anos: VOTO NEGADO'
+        return f' Com {idade} anos: VOTO NEGADO'
     elif 16 <= idade < 18:
         return f'Com {idade} anos: VOTO OPCIONAL'
     elif 18 <= idade <= 65:
         return f'Com {idade} anos: VOTO OBRIGATÓRIO'
     elif idade > 65:
         return f'Com {idade} anos: VOTO OPCIONAL'
-#end-def
+# end-def
 
 
 ano = int(input('Em que ano você nasceu? '))
