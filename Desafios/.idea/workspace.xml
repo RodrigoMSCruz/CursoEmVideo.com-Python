@@ -7,11 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae28fbff-b29c-4aba-a72b-f2bac931461a" name="Default Changelist" comment="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit c2eab0d6bcf87d1975f599311e07cb0d29d507de.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio099.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio103.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio104.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio105.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,27 +59,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.desafio105">
-    <configuration name="desafio099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Desafios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio099.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="desafio100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Desafios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +122,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio104.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="desafio105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Desafios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,10 +188,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.desafio105" />
+        <item itemvalue="Python.desafio104" />
         <item itemvalue="Python.desafio103" />
         <item itemvalue="Python.desafio102" />
         <item itemvalue="Python.desafio100" />
-        <item itemvalue="Python.desafio099" />
       </list>
     </recent_temporary>
   </component>

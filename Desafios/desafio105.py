@@ -10,20 +10,21 @@ def notas(*num, sit=False):
     maior = max(num)
     menor = min(num)
     media = sum(num) / total
+    avaliacao = ''
     if sit:
-        if media >=7:
-            situacao = 'Boa'
+        if media >= 7:
+            avaliacao = 'Boa'
         if 5 < media < 7:
-            situacao = 'Razoável'
-        if media <=5:
-            situacao = 'Ruim'
+            avaliacao = 'Razoável'
+        if media <= 5:
+            avaliacao = 'Ruim'
     # end-if
-    if sit == True:
+    if sit:
         return {'total': total,
                 'maior': maior,
                 'menor': menor,
                 'média': media,
-                'situação': situacao}
+                'situação': avaliacao}
     else:
         return {'total': total,
                 'maior': maior,
@@ -35,4 +36,4 @@ def notas(*num, sit=False):
 
 print(notas(4.5, 5.5, 7, 8, 2.5, 4, sit=True))
 print(notas(4.5, 5.5, 7, 8, 2.5, 4))
-help(notas())
+help(notas)
