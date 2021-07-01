@@ -5,12 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae28fbff-b29c-4aba-a72b-f2bac931461a" name="Default Changelist" comment="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit c2eab0d6bcf87d1975f599311e07cb0d29d507de.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio096.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio097.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio098.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae28fbff-b29c-4aba-a72b-f2bac931461a" name="Default Changelist" comment="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit c2eab0d6bcf87d1975f599311e07cb0d29d507de." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
