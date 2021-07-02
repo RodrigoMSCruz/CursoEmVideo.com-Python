@@ -7,13 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae28fbff-b29c-4aba-a72b-f2bac931461a" name="Default Changelist" comment="Revert &quot;Revert &quot;Initial commit&quot;&quot;&#10;&#10;This reverts commit c2eab0d6bcf87d1975f599311e07cb0d29d507de.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio106.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio107/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio107/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio107/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio107/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio108/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio108/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio108/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio108/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio109/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio109/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio109/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio110/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio110/moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
