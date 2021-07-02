@@ -2,8 +2,9 @@
 # Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e
 # mantenha tudo funcionando.
 
-from desafio111.utilidadescev import moeda
-
+from desafio111.utilidadescev.moeda import resumo
 
 p = float(input('Digite o preço: R$ '))
-moeda.resumo(p, 80, 35)
+resumo(p, 80, 35)
+
+
