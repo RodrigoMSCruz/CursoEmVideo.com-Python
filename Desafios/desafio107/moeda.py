@@ -5,6 +5,7 @@ def aumentar(preco, taxa):
 
 def diminuir(preco, taxa):
     res = preco - (preco * taxa/100)
+    return res
 
 
 def dobro(preco):

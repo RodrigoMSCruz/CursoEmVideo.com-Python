@@ -2,6 +2,7 @@
 # números como um valor monetário formatado.
 
 import moeda
+#from desafio108 import moeda
 
 p = float(input('Digite o preço: R$ '))
 print(f'A metade de  {moeda.moeda(p)} é R$ {moeda.moeda(moeda.metade(p))}.')

@@ -6,12 +6,15 @@ from time import sleep
 def ajuda(com):
     sleep(1)
     help(com)
+# end-def-ajuda
+
 
 def titulo(msg, cor=0):
     tam = len(msg) + 4
     print('˜' * tam)
     print(f' {msg}')
     print('˜' * tam)
+# end-def-titulo
 
 comando = ''
 while True:
@@ -21,5 +24,7 @@ while True:
         break
     else:
         ajuda(comando)
+    # end-if-else
+# end-while
 sleep(2)
 print('Encerrando... Até breve.')

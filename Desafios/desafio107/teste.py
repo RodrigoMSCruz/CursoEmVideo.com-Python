@@ -2,6 +2,7 @@
 # Também há um programa que importa esse módulo e use algumas dessas funções.
 
 import moeda
+#from desafio107 import moeda
 
 p = float(input('Digite o preço: R$ '))
 print(f'A metade de R$ {p} é R$ {moeda.metade(p)}.')
