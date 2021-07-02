@@ -5,5 +5,5 @@
 from desafio112.utilidadescev.moeda import resumo
 from desafio112.utilidadescev.dado import leiaDinheiro
 
-p = dado.leiaDinheiro('Digite o preço: R$ ')
-moeda.resumo(p, 80, 35)
+p = leiaDinheiro('Digite o preço: R$ ')
+resumo(p, 80, 35)
